@@ -2,5 +2,6 @@ FINANCIAL MANAGEMENT
 
 -input pendapatan
 -input pengeluaran
--total input perbula
+-total input perbulan
 -grafik pendapatan dan pengeluaran perbulan
+-batas pengeluaran perbulan
